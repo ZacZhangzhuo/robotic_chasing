@@ -1,6 +1,5 @@
 import cv2
 import numpy as np
-import json
 from compas import data
 
 cap = cv2.VideoCapture(1)
